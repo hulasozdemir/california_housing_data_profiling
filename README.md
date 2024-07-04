@@ -5,4 +5,4 @@ This project aims to perform data profiling on the California Housing dataset to
 
 ## Preview
 
-[Profile file](https://htmlpreview.github.io/?https://github.com/hulasozdemir/california_housing_data_profiling/blob/main/california_housing_data_profiling_report.html)
+[Profile file](https://hulasozdemir.github.io)
